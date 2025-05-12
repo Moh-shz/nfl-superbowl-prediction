@@ -30,8 +30,6 @@ nfl-superbowl-prediction/
 │   └── predictions_used_in_case_study_2024/ → Models predictions for the 2024 case study
 │
 ├── notebooks/ → Jupyter notebooks for all experiments
-│
-└── README.md → Project description and instructions
 ```
 
 ## Data
