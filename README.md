@@ -39,4 +39,4 @@ The raw dataset is sourced from Kaggle:
 License: Creative Commons CC0 (Public Domain Dedication)
 
 No personal or sensitive information is included.  
-Data is used strictly for academic and research purposes.
+The data is used strictly for academic and research purposes.
