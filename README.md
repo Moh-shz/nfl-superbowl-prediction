@@ -43,5 +43,5 @@ The data is used strictly for academic and research purposes.
 
 ## Official Release
 
-The final version of the full code and data accompanying this MSc dissertation is archived at:  
+This release represents the final stable version of the code and data at the time of MSc dissertation submission:  
 [https://github.com/Moh-shz/nfl-superbowl-prediction/releases/tag/v1.0.0](https://github.com/Moh-shz/nfl-superbowl-prediction/releases/tag/v1.0.0)
