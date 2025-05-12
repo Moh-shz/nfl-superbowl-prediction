@@ -4,13 +4,13 @@ This repository contains the full data and code for the MSc Data Science dissert
 **Forecasting Super Bowl Champions Using XGBoost: A Scenario-Based Analysis of Historical Window Impact and Feature Importance**
 
 **Author:**  
-Mohammad Sharzehei, MSc Data Science Candidate  
+Mohammad Sharzehei
 
 **Supervisor:**  
 Dr. Paul Griffiths  
 
 **Institution:**  
-Aston University, School of Informatics and Digital Engineering  
+Aston University  
 
 **Submission Date:**  
 12 May 2025
