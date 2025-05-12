@@ -24,18 +24,19 @@ A Case study on 2024 season and forward-looking prediction for the 2025 season a
 nfl-superbowl-prediction/
 │
 ├── data/
-│   ├── raw_data/ → Raw dataset (source + license)
+│   ├── raw_data/ → Raw dataset
 │   ├── prepared_data/ → Prepared dataset and dictionaries
 │   ├── models_used_in_case_study_2024/ → Pre-trained models for 2024 case study
 │   └── predictions_used_in_case_study_2024/ → Models predictions for the 2024 case study
 │
-├── notebooks/ → Jupyter notebooks for all experiments
+└── notebooks/ → Jupyter notebooks for all experiments
 ```
 
 ## Data
 
-The dataset is sourced from Kaggle:  
+The raw dataset is sourced from Kaggle:  
 [NFL Team Stats 2002-2019 (ESPN Data)](https://www.kaggle.com/datasets/cviaxmiwnptr/nfl-team-stats-20022019-espn)
-All data is provided under the CC0 (Public Domain) license.
+License: Creative Commons CC0 (Public Domain Dedication)
 
-See `data/LICENSE_DATA.txt` for full data licensing details.
+No personal or sensitive information is included.  
+Data is used strictly for academic and research purposes.
