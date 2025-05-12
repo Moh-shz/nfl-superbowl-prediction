@@ -1,6 +1,6 @@
 Data Licensing for nfl-superbowl-prediction Repository
 
-The raw data file in data/raw_data/ is sourced from:
+The raw dataset in data/raw_data/ is sourced from:
 NFL Team Stats 2002-2019 (ESPN Data)
 https://www.kaggle.com/datasets/cviaxmiwnptr/nfl-team-stats-20022019-espn
 
@@ -8,4 +8,4 @@ License:
 Creative Commons CC0 (Public Domain Dedication)
 
 No personal or sensitive information is included.  
-Data is used strictly for academic and research purposes.
+The data is used strictly for academic and research purposes.
