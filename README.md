@@ -1,7 +1,19 @@
-# NFL Super Bowl Winner Prediction
+# NFL Super Bowl Champion Forecasting
 
 This repository contains the full data and code for the MSc Data Science dissertation project:  
 **Forecasting Super Bowl Champions Using XGBoost: A Scenario-Based Analysis of Historical Window Impact and Feature Importance**
+
+**Author:**  
+Mohammad Sharzehei, MSc Data Science Candidate  
+
+**Supervisor:**  
+Dr. Paul Griffiths  
+
+**Institution:**  
+Aston University, School of Informatics and Digital Engineering  
+
+**Submission Date:**  
+12 May 2025
 
 ## Project Overview
 
