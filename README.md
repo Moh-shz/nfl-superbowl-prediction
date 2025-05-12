@@ -40,3 +40,8 @@ License: Creative Commons CC0 (Public Domain Dedication)
 
 No personal or sensitive information is included.  
 The data is used strictly for academic and research purposes.
+
+## Official Release
+
+The final version of the full code and data accompanying this MSc dissertation is archived at:  
+[https://github.com/Moh-shz/nfl-superbowl-prediction/releases/tag/v1.0.0](https://github.com/Moh-shz/nfl-superbowl-prediction/releases/tag/v1.0.0)
